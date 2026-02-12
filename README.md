@@ -75,7 +75,7 @@ git submodule add https://github.com/Yang-qwq/Anans_sketchbook_chatbox_ncatbot.g
 
 ## 📄 许可证
 
-本项目采用 AGPL-3.0 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
+查看 [LICENSE](LICENSE) 文件了解详情。
 
 ## 🙏 致谢
 
